@@ -2,6 +2,8 @@
 
 A lightweight 2D Mario-style platformer written in C++ using SFML.
 
+![Super Mini Mario Gameplay](result.png)
+
 This project demonstrates core game development concepts:
 
 ## 🚀 Features
@@ -15,6 +17,14 @@ This project demonstrates core game development concepts:
 - 💀 **Game over + restart system**
 - 📷 **Camera tracking**
 - 🎨 **Fully rendered** using SFML shapes (no textures)
+
+## 🎮 Gameplay
+
+The game features classic Mario-style platforming mechanics with:
+- Jump on question blocks to collect coins
+- Avoid or defeat Goombas by jumping on them
+- Navigate through pipes and platforms
+- Reach the flag to win!
 
 ## 🛠️ Tech Stack
 
@@ -56,9 +66,9 @@ Make sure SFML is installed and linked correctly.
 | Exit | ESC |
 
 ## 📁 Project Structure
-
-- Mario.cpp
-- README.md
+Mario.cpp                      # Main game source
+README.md                      # Documentation
+Screenshot_2026-05-04_172510.png  # Gameplay screenshot
 
 ## 🔧 Future Improvements
 
@@ -75,3 +85,7 @@ Make sure SFML is installed and linked correctly.
 - Entity systems
 - Game state management
 - Camera systems
+
+---
+
+Made with ❤️ using C++ and SFML
