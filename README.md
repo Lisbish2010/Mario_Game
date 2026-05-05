@@ -88,4 +88,4 @@ Screenshot_2026-05-04_172510.png  # Gameplay screenshot
 
 ---
 
-Made with ❤️ using C++ and SFML
+Made with  using C++ and SFML
